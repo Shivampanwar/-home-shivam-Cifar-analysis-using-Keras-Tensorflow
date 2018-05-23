@@ -1,1 +1,1 @@
-Cifar analysis using Keras and TensorFlow
+Cifar10 dataset analysis using Keras and Tensorflow. TO run, download the data from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz and unzip it the same folder. 
