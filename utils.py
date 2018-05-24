@@ -1,6 +1,5 @@
 import numpy as np
 import os
-
 def unpickle(file):
     import cPickle
     with open(file, 'rb') as fo:
